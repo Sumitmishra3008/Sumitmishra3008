@@ -1,4 +1,12 @@
-## Hi there 👋
+🚀 Aspiring Software Developer (SDE) currently in second year pursuing a B.Tech in Computer Science and Engineering. Grateful for the journey of learning and excited about the opportunities ahead in the world of software development.
+
+
+
+</> On the competitive programming front, I've achieved decent ratings on platforms like Codeforces and codechef. The thrill of problem-solving and the competitive drive to improve constantly fuel my passion for coding.
+
+📚 Always eager to learn and explore new horizons, I am on the lookout for opportunities that not only challenge my technical prowess but also inspire continuous growth.
+
+Let's connect and build something great together! 💡✨
 
 <!--
 **Sumitmishra3008/Sumitmishra3008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
