@@ -21,7 +21,7 @@
 Aspiring Software Developer who loves to tinker with code 🔧.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-mishra-a8b423209/)
-[![Profile Views](https://komarev.com/ghpvc/?username=XoXoHarsh&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Sumitmishra3008)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sumitmishra3008&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Sumitmishra3008)
 
 - 🚀 Aspiring Software Developer (SDE) currently in third year pursuing a B.Tech in Computer Science and Engineering with AI specialisation.
 - </> On the competitive programming front, I've achieved decent ratings on platforms like Codeforces and CodeChef. The thrill of problem-solving and the competitive drive to improve constantly fuel my passion for coding.
